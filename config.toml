@@ -1,0 +1,10 @@
+baseurl = "http://localhost"
+languageCode = "en-us"
+title = "Elchwald"
+
+[Params]
+  github = "sahib"
+  email = "sahib@online.de"
+  description = "Personal page of Chris Pahl 👨 and his software ❤"
+  # cover = "/brig.png"
+  logo = "/images/geweih.svg"

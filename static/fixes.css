@@ -1,0 +1,26 @@
+h1 {
+	font-size: 200%;
+	color: #EEAAAA;
+}
+
+h1 {
+	font-weight: 600;
+}
+
+h1, h2, h3, p {
+    font-family: Vollkorn;
+}
+
+html {
+    font-family: Vollkorn;
+}
+
+#blog-logo img {
+	position: relative;
+	left: 19px;
+	top: 32px;
+}
+
+.circle img {
+	width: 25%;
+}
