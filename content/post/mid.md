@@ -1,6 +1,6 @@
 +++
 date = "2016-10-30T14:08:14+01:00"
-draft = true
+draft = false
 title = "Projects"
 weight = 50
 class = "post"
@@ -13,50 +13,52 @@ class = "post"
 <div id="project-list">
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>bri</u>g«</a></span>
+		<span id="title"><a href="https://github.com/disorganizer/brig">»<u>bri</u>g«</a></span>
 		{{< figure src="/public/images/go.png" title="" class="language-image" >}}
 		<span id="desc">
 		A tool for secure and distributed<br />
 		file synchronization based on <a>ipfs</a>.<br />
+		Subject of my master thesis.
 		</span>
 		<span id="role">
 		<i id="role-string">Size:</i> 14 KLOC
 		<br />
 		<i id="role-string">Time:</i> 2015&ndash;2016
 		<br />
-		<i id="role-string">State:</i> Working alpha
+		<i id="role-string">State:</i> Working prototype.
 		<br />
-		<i id="role-string">Role:</i> Lead developer
+		<i id="role-string">Role:</i> Lead developer.
 		</span>
 	</div>
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>rmlint</u>«</a></span>
+		<span id="title"><a href="https://rmlint.rtfd.org">»<u>rmlint</u>«</a></span>
 		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
 		<span id="desc">
-		A very fast deduplication tool for Linux<br />
-		written in C with many options. It also<br />
-		features a <a href="https://rmlint.readthedocs.io/en/latest/gui.html">graphical user interface</a> written in Python.
+		A very fast deduplication suite for<br /> Linux written in C with many<br />
+		options. It also features a
+		<a href="https://rmlint.readthedocs.io/en/latest/gui.html">graphical  <br />user interface</a> written in Python.
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 14 KLOC
+		<i id="role-string">Size:</i> 20 KLOC
 		<br />
 		<i id="role-string">Time:</i> 2010&ndash;2016
 		<br />
-		<i id="role-string">State:</i> Stable for production use
+		<i id="role-string">State:</i> Used in production.
 		<br />
-		<i id="role-string">Role:</i> Creator and Developer
+		<i id="role-string">Role:</i> Creator and 1/2 Developer.
 		</span>
 	</div>
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>eulenfunk</u>«</a></span>
+		<span id="title"><a href="https://github.com/studentkittens/eulenfunk">»<u>eulenfunk</u>«</a></span>
 		{{< figure src="/public/images/c-and-go.png" title="" class="language-image" >}}
 		<span id="desc">
 		A home-made kitchen radio<br />
 		based on the Raspberry Pi.<br />
+		Watch a <a href="https://vimeo.com/171646691">video here.</a>
 		</span>
 		<span id="role">
 		<i id="role-string">Size:</i> 7 KLOC
@@ -65,7 +67,7 @@ class = "post"
 		<br />
 		<i id="role-string">State:</i> Works fine in the kitchen.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Software Developer.
 		</span>
 	</div>
 </div>
@@ -78,58 +80,63 @@ class = "post"
 <div id="project-list">
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>moosecat</u>«</a></span>
+		<span id="title"><a href="https://github.com/studentkittens/moosecat">»<u>moosecat</u>«</a></span>
 		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		Unique/powerful <a href="https://www.musicpd.org">MPD client</a><br />
+		with search completion, fast <br />
+		playlist filtering, metadata retrieval<br />
+		and smart playlist generation.<br />
+		Currently discontinued due to lack of time.
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 15 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Time:</i> 2012&ndash;2015
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Various Prototypes.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Sole Author.
 		</span>
 	</div>
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>glyr</u>«</a></span>
+		<span id="title"><a href="https://github.com/sahib/glyr">»<u>glyr</u>«</a></span>
 		{{< figure src="/public/images/c.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		Library for music metadata retrieval<br />
+		like coverart, lyrics, album reviews<br />
+		or artist photos. More than 40 providers.<br />
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 15 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Time:</i> 2011&ndash;2016
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Needs maintenance or rewrite.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Sole Author.
 		</span>
 	</div>
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>Snøbær</u>«</a></span>
-		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
+		<span id="title"><a href="https://github.com/studentkittens/snobaer">»<u>Snøbær</u>«</a></span>
+		{{< figure src="/public/images/python-coffee.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		Web frontend for moosecat.<br />
+		Backend is in Python,<br />
+		Frontend is written in Coffeescript.<br />
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 3 KLOC
 		<br />
 		<i id="role-string">Time:</i> June 2016
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Buggy Prototype.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Sole Author.
 		</span>
 	</div>
 </div>
@@ -142,16 +149,17 @@ class = "post"
 <div id="project-list">
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>libmunin</u>«</a></span>
+		<span id="title"><a href="https://libmunin.readthedocs.io/en/latest/">»<u>libmunin</u>«</a></span>
 		{{< figure src="/public/images/python.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		Python library that generates<br />
+		music recommendations based<br />on datamining algorithms and tries<br />
+		to learn from the user's behaviour.<br />
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 4 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Time:</i> Oct 2013&ndash;May 2014
 		<br />
 		<i id="role-string">State:</i> Works fine in the kitchen.
 		<br />
@@ -161,39 +169,43 @@ class = "post"
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>catlight</u>«</a></span>
+		<span id="title"><a href="https://github.com/studentkittens/catlight">»<u>catlight</u>«</a></span>
 		{{< figure src="/public/images/c.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		USB driven multicolor LED,<br />
+		which is controlled by a.<br />
+		userspace driver. Used for <br />
+		mail notifications
+		and music visualisation.
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 1 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Time:</i> 2012&ndash;2016 
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Works well.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Driver and utility development.
 		</span>
 	</div>
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a>»<u>nom</u>«</a></span>
+		<span id="title"><a href="https://github.com/serztle/nom">»<u>nom</u>«</a></span>
 		{{< figure src="/public/images/go.png" title="" class="language-image" >}}
 		<span id="desc">
-		A home-made kitchen radio<br />
-		based on the Raspberry Pi.<br />
+		Small tool to plan and manage .<br />
+		recipes. Also supports the<br />
+		rendering of a web gallery.<br />
 		</span>
 		<span id="role">
-		<i id="role-string">Size:</i> 7 KLOC
+		<i id="role-string">Size:</i> 2 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Time:</i> September 2016
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Works and generates <a href="https://studentkittens.github.io/recipes">this</a>.
 		<br />
-		<i id="role-string">Role:</i> Software Developer
+		<i id="role-string">Role:</i> Code review, Author is <a href="https://github.com/serztle">serztle</a>.
 		</span>
 	</div>
 </div>
@@ -203,14 +215,15 @@ class = "post"
 
 <h2>Donations:</h2>
 
-If you like my work, you might consider a donation, but nice emails are okay too. 😊
+If you like my work, you might consider a donation, but nice emails or buying me a beer is okay too.
+If you have questions, just ask me. I'm not as shy as I look like. 😊
 
-<a href="https://flattr.com/thing/302682/libglyr"><img src="https://api.flattr.com/button/flattr-badge-large.png" /></a>
 <center>
-   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display: inline-block;">
 	   <input type="hidden" name="cmd" value="_s-xclick">
 	   <input type="hidden" name="hosted_button_id" value="JXCXKRMS8EDVC">
 	   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 	   <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
    </form>
+<a href="https://flattr.com/thing/302682/libglyr"><img src="https://api.flattr.com/button/flattr-badge-large.png" /></a>
 </center>

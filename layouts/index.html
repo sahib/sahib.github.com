@@ -8,9 +8,7 @@
 
                 {{ if .Site.Params.logo }} <a id="blog-logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Blog Logo" /></a>{{ end }}
                 <h1 class="blog-title">{{ .Site.Title}}</h1>
-                {{ if .Site.Params.description }}<h2 class="blog-description">{{ .Site.Params.description }}</h2> {{ else  }}
-                <h2 class="blog-description">Power puff girls</h2>
-                {{ end }}
+                <h2 class="blog-description text-shadow">{{ .Site.Params.description }}</h2>
 
                 <a class='btn first'>Projects</a>
                 <a class='btn last'>About me</a>

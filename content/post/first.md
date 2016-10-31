@@ -6,20 +6,25 @@ weight = 1
 class = "post first"
 +++
 
+<br />
+
 <h2>Formal education:</h2>
 
-* 2016: Master of Science, University of Applied Sciences Augsburg (ø 1.4)
-* 2014: Bachelor of Science, University of Applied Sciences Hof (ø 1.9)
+* <span class="italic">2016</span>: Master of Science, University of Applied Sciences Augsburg (Ø1.4)
+* <span class="italic">2014</span>: Bachelor of Science, University of Applied Sciences Hof (Ø1.9)
+
+TODO: link zu pdfs.
 
 <h2>Papers:</h2>
 
-* 2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)
-* 2014: libmunin
+* <span class="italic">Oct 2016</span>: <a href="https://disorganizer.github.io/brig-thesis/brig/thesis.pdf">»brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation.</a>
+* <span class="italic">May 2014</span>: <a href="https://sahib.github.io/libmunin-thesis/bachelor/html/rst/index.html">Algorithmik und Evaluation des Musikempfehlungssystems libmunin.</a>
 
-Thanks to my FOSS [projects](#Projects) I'm confident in all aspects related to creating
-software from scratch. This includes designing, developing, packaging,
+Thanks to my FOSS [projects](#Projects) I'm confident in all aspects related to
+creating software from scratch. This includes designing, developing, packaging,
 documenting, testing, porting, working with the community, filing bugs and
-getting bug reports. I specialize in doing systems programming.
+getting bug reports. I specialize in doing systems programming. Below you'll
+find the technologies I'm familiar with:
 
 <div id="tagcloud">
 <a href="/tag-suche/bildwechsel" class="tag1">Linux/Unix</a>
@@ -38,7 +43,7 @@ getting bug reports. I specialize in doing systems programming.
 <a href="/tag-suche/webdesign" class="tag3">Yubikey</a>
 </div>
 
-<h2>Languages:</h2>
+<h2>Languages I speak:</h2>
 
-* German (Mother's tongue)
-* English (fluently spoken and written)
+* German <span class="italic">(Native speaker)</span>
+* English <span class="italic">(fluently spoken and written)</span>

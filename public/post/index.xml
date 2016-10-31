@@ -19,7 +19,7 @@
 Most of the time, I&amp;rsquo;m busy with writing free
 software. I care for privacy, therefore you won&amp;rsquo;t find me on social networks.
 If you want to contact me, email is the way to go: &lt;a href=&#34;mailto:sahib@online.de&#34;&gt;&lt;code&gt;sahib@online.de&lt;/code&gt;&lt;/a&gt;.
-Alternatively you can use my XMPP handle: &lt;code&gt;sahib@jabber.nullcat.de&lt;/code&gt;.
+Alternatively you can use my XMPP handle, which is named &lt;code&gt;sahib@jabber.nullcat.de&lt;/code&gt;.
 If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pgp.mit.edu/pks/lookup?op=vindex&amp;amp;search=0x60464F5AAF3D5DAC&#34;&gt;&lt;code&gt;AF3D5DAC&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 
 
@@ -32,7 +32,7 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 
 
 &lt;p&gt;&lt;b&gt;Things I like (in no particular order):&lt;/b&gt; &lt;br /&gt;
-&lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Badly executed Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt;, Tattoos and Terry Pratchett books.&lt;/p&gt;
+&lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Badly executed Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt;, Bo Burnham, Tattoos and Terry Pratchett books.&lt;/p&gt;
 </description>
     </item>
     
@@ -42,24 +42,29 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
       <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
       
       <guid>https://sahib.github.io/public/post/first/</guid>
-      <description>&lt;h2&gt;Formal education:&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Formal education:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2016: Master of Science, University of Applied Sciences Augsburg (ø 1.4)&lt;/li&gt;
-&lt;li&gt;2014: Bachelor of Science, University of Applied Sciences Hof (ø 1.9)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;2016&lt;/span&gt;: Master of Science, University of Applied Sciences Augsburg (Ø1.4)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;2014&lt;/span&gt;: Bachelor of Science, University of Applied Sciences Hof (Ø1.9)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;TODO: link zu pdfs.&lt;/p&gt;
 
 &lt;h2&gt;Papers:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)&lt;/li&gt;
-&lt;li&gt;2014: libmunin&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;Oct 2016&lt;/span&gt;: &lt;a href=&#34;https://disorganizer.github.io/brig-thesis/brig/thesis.pdf&#34;&gt;»brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;May 2014&lt;/span&gt;: &lt;a href=&#34;https://sahib.github.io/libmunin-thesis/bachelor/html/rst/index.html&#34;&gt;Algorithmik und Evaluation des Musikempfehlungssystems libmunin.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Thanks to my FOSS &lt;a href=&#34;#Projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;m confident in all aspects related to creating
-software from scratch. This includes designing, developing, packaging,
+&lt;p&gt;Thanks to my FOSS &lt;a href=&#34;#Projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;m confident in all aspects related to
+creating software from scratch. This includes designing, developing, packaging,
 documenting, testing, porting, working with the community, filing bugs and
-getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
+getting bug reports. I specialize in doing systems programming. Below you&amp;rsquo;ll
+find the technologies I&amp;rsquo;m familiar with:&lt;/p&gt;
 
 &lt;div id=&#34;tagcloud&#34;&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/bildwechsel&#34; class=&#34;tag1&#34;&gt;Linux/Unix&lt;/a&gt;
@@ -78,11 +83,11 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/webdesign&#34; class=&#34;tag3&#34;&gt;Yubikey&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Languages:&lt;/h2&gt;
+&lt;h2&gt;Languages I speak:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;German (Mother&amp;rsquo;s tongue)&lt;/li&gt;
-&lt;li&gt;English (fluently spoken and written)&lt;/li&gt;
+&lt;li&gt;German &lt;span class=&#34;italic&#34;&gt;(Native speaker)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;English &lt;span class=&#34;italic&#34;&gt;(fluently spoken and written)&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -100,7 +105,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;div id=&#34;project-list&#34;&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;bri&lt;/u&gt;g«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/disorganizer/brig&#34;&gt;»&lt;u&gt;bri&lt;/u&gt;g«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -112,21 +117,22 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
         &lt;span id=&#34;desc&#34;&gt;
         A tool for secure and distributed&lt;br /&gt;
         file synchronization based on &lt;a&gt;ipfs&lt;/a&gt;.&lt;br /&gt;
+        Subject of my master thesis.
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
         &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 14 KLOC
         &lt;br /&gt;
         &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2015&amp;ndash;2016
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Working alpha
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Working prototype.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Lead developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Lead developer.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;rmlint&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://rmlint.rtfd.org&#34;&gt;»&lt;u&gt;rmlint&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -136,24 +142,24 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A very fast deduplication tool for Linux&lt;br /&gt;
-        written in C with many options. It also&lt;br /&gt;
-        features a &lt;a href=&#34;https://rmlint.readthedocs.io/en/latest/gui.html&#34;&gt;graphical user interface&lt;/a&gt; written in Python.
+        A very fast deduplication suite for&lt;br /&gt; Linux written in C with many&lt;br /&gt;
+        options. It also features a
+        &lt;a href=&#34;https://rmlint.readthedocs.io/en/latest/gui.html&#34;&gt;graphical  &lt;br /&gt;user interface&lt;/a&gt; written in Python.
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 14 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 20 KLOC
         &lt;br /&gt;
         &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2010&amp;ndash;2016
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Stable for production use
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Used in production.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Creator and Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Creator and 1/2 Developer.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;eulenfunk&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/studentkittens/eulenfunk&#34;&gt;»&lt;u&gt;eulenfunk&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -165,6 +171,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
         &lt;span id=&#34;desc&#34;&gt;
         A home-made kitchen radio&lt;br /&gt;
         based on the Raspberry Pi.&lt;br /&gt;
+        Watch a &lt;a href=&#34;https://vimeo.com/171646691&#34;&gt;video here.&lt;/a&gt;
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
         &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
@@ -173,7 +180,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
         &lt;br /&gt;
         &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -186,7 +193,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;div id=&#34;project-list&#34;&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;moosecat&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/studentkittens/moosecat&#34;&gt;»&lt;u&gt;moosecat&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -196,23 +203,26 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        Unique/powerful &lt;a href=&#34;https://www.musicpd.org&#34;&gt;MPD client&lt;/a&gt;&lt;br /&gt;
+        with search completion, fast &lt;br /&gt;
+        playlist filtering, metadata retrieval&lt;br /&gt;
+        and smart playlist generation.&lt;br /&gt;
+        Currently discontinued due to lack of time.
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 15 KLOC
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2012&amp;ndash;2015
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Various Prototypes.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Sole Author.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;glyr&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/sahib/glyr&#34;&gt;»&lt;u&gt;glyr&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -222,43 +232,45 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        Library for music metadata retrieval&lt;br /&gt;
+        like coverart, lyrics, album reviews&lt;br /&gt;
+        or artist photos. More than 40 providers.&lt;br /&gt;
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 15 KLOC
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2011&amp;ndash;2016
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Needs maintenance or rewrite.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Sole Author.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;Snøbær&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/studentkittens/snobaer&#34;&gt;»&lt;u&gt;Snøbær&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
-        &lt;img src=&#34;https://sahib.github.io/public/public/images/c-and-python.png&#34; /&gt;
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/python-coffee.png&#34; /&gt;
     
     
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        Web frontend for moosecat.&lt;br /&gt;
+        Backend is in Python,&lt;br /&gt;
+        Frontend is written in Coffeescript.&lt;br /&gt;
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 3 KLOC
         &lt;br /&gt;
         &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Buggy Prototype.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Sole Author.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -271,7 +283,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;div id=&#34;project-list&#34;&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;libmunin&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://libmunin.readthedocs.io/en/latest/&#34;&gt;»&lt;u&gt;libmunin&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -281,13 +293,14 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        Python library that generates&lt;br /&gt;
+        music recommendations based&lt;br /&gt;on datamining algorithms and tries&lt;br /&gt;
+        to learn from the user&#39;s behaviour.&lt;br /&gt;
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 4 KLOC
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; Oct 2013&amp;ndash;May 2014
         &lt;br /&gt;
         &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
         &lt;br /&gt;
@@ -297,7 +310,7 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;catlight&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/studentkittens/catlight&#34;&gt;»&lt;u&gt;catlight&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -307,23 +320,26 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        USB driven multicolor LED,&lt;br /&gt;
+        which is controlled by a.&lt;br /&gt;
+        userspace driver. Used for &lt;br /&gt;
+        mail notifications
+        and music visualisation.
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 1 KLOC
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2012&amp;ndash;2016 
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works well.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Driver and utility development.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;stamp&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
-        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;nom&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a href=&#34;https://github.com/serztle/nom&#34;&gt;»&lt;u&gt;nom&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
         
 &lt;figure class=&#34;language-image&#34;&gt;
     
@@ -333,17 +349,18 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 &lt;/figure&gt;
 
         &lt;span id=&#34;desc&#34;&gt;
-        A home-made kitchen radio&lt;br /&gt;
-        based on the Raspberry Pi.&lt;br /&gt;
+        Small tool to plan and manage .&lt;br /&gt;
+        recipes. Also supports the&lt;br /&gt;
+        rendering of a web gallery.&lt;br /&gt;
         &lt;/span&gt;
         &lt;span id=&#34;role&#34;&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 2 KLOC
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; September 2016
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works and generates &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;this&lt;/a&gt;.
         &lt;br /&gt;
-        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Code review, Author is &lt;a href=&#34;https://github.com/serztle&#34;&gt;serztle&lt;/a&gt;.
         &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -353,16 +370,17 @@ getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 
 &lt;h2&gt;Donations:&lt;/h2&gt;
 
-&lt;p&gt;If you like my work, you might consider a donation, but nice emails are okay too. 😊&lt;/p&gt;
+&lt;p&gt;If you like my work, you might consider a donation, but nice emails or buying me a beer is okay too.
+If you have questions, just ask me. I&amp;rsquo;m not as shy as I look like. 😊&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;https://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
-&lt;center&gt;
-   &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+&lt;p&gt;&lt;center&gt;
+   &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; style=&#34;display: inline-block;&#34;&gt;
        &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
        &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;JXCXKRMS8EDVC&#34;&gt;
        &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
        &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/de_DE/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
    &lt;/form&gt;
+&lt;a href=&#34;https://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;https://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
