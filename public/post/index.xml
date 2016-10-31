@@ -17,7 +17,7 @@
       <guid>https://sahib.github.io/public/post/last/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a German software developer, currently residing in Augsburg (Bavaria)
 Most of the time, I&amp;rsquo;m busy with writing free
-software. I care for privacy, therefore you won&amp;rsquo;t find me on social networks.
+software. I care for privacy, therefore you won&amp;rsquo;t find me on popular social networks.
 If you want to contact me, email is the way to go: &lt;a href=&#34;mailto:sahib@online.de&#34;&gt;&lt;code&gt;sahib@online.de&lt;/code&gt;&lt;/a&gt;.
 Alternatively you can use my XMPP handle, which is named &lt;code&gt;sahib@jabber.nullcat.de&lt;/code&gt;.
 If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pgp.mit.edu/pks/lookup?op=vindex&amp;amp;search=0x60464F5AAF3D5DAC&#34;&gt;&lt;code&gt;AF3D5DAC&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -31,7 +31,7 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 &lt;/figure&gt;
 
 
-&lt;p&gt;&lt;b&gt;Things I like (in no particular order):&lt;/b&gt; &lt;br /&gt;
+&lt;p&gt;&lt;span class=&#34;italic&#34;&gt;Things I like (in no particular order):&lt;/span&gt; &lt;br /&gt;
 &lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Badly executed Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt;, Bo Burnham, Tattoos and Terry Pratchett books.&lt;/p&gt;
 </description>
     </item>
@@ -51,8 +51,6 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 &lt;li&gt;&lt;span class=&#34;italic&#34;&gt;2014&lt;/span&gt;: Bachelor of Science, University of Applied Sciences Hof (Ø1.9)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;TODO: link zu pdfs.&lt;/p&gt;
-
 &lt;h2&gt;Papers:&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -60,18 +58,18 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 &lt;li&gt;&lt;span class=&#34;italic&#34;&gt;May 2014&lt;/span&gt;: &lt;a href=&#34;https://sahib.github.io/libmunin-thesis/bachelor/html/rst/index.html&#34;&gt;Algorithmik und Evaluation des Musikempfehlungssystems libmunin.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Thanks to my FOSS &lt;a href=&#34;#Projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;m confident in all aspects related to
+&lt;p&gt;Thanks to my &lt;a href=&#34;#Projects&#34;&gt;FOSS projects&lt;/a&gt; I&amp;rsquo;m confident in all aspects related to
 creating software from scratch. This includes designing, developing, packaging,
 documenting, testing, porting, working with the community, filing bugs and
-getting bug reports. I specialize in doing systems programming. Below you&amp;rsquo;ll
-find the technologies I&amp;rsquo;m familiar with:&lt;/p&gt;
+handling bug reports. I mostly specialize in doing systems programming. Below you&amp;rsquo;ll
+find the topics I had most contact with on my journey:&lt;/p&gt;
 
 &lt;div id=&#34;tagcloud&#34;&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/bildwechsel&#34; class=&#34;tag1&#34;&gt;Linux/Unix&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/css&#34; class=&#34;tag3&#34;&gt;Network programming&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/hover&#34; class=&#34;tag2&#34;&gt;Backend programming&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/liste&#34; class=&#34;tag1&#34;&gt;Frontend&lt;/a&gt;
-&lt;a href=&#34;https://sahib.github.io/public/tag-suche/mouseover&#34; class=&#34;tag2&#34;&gt;Security TODO&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/mouseover&#34; class=&#34;tag2&#34;&gt;Cryptography&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/navigation&#34; class=&#34;tag1&#34;&gt;UI Developement (GTK+)&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/newsflash&#34; class=&#34;tag1&#34;&gt;bash&lt;/a&gt;
 &lt;a href=&#34;https://sahib.github.io/public/tag-suche/newsteaser&#34; class=&#34;tag1&#34;&gt;golang&lt;/a&gt;
