@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Elchwald</title>
-    <link>http://localhost/post/</link>
+    <link>https://sahib.github.io/public/post/</link>
     <description>Recent content in Posts on Elchwald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Oct 2016 14:09:01 +0100</lastBuildDate>
-    <atom:link href="http://localhost/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sahib.github.io/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://localhost/post/last/</link>
+      <link>https://sahib.github.io/public/post/last/</link>
       <pubDate>Sun, 30 Oct 2016 14:09:01 +0100</pubDate>
       
-      <guid>http://localhost/post/last/</guid>
+      <guid>https://sahib.github.io/public/post/last/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a German software developer, currently residing in Augsburg (Bavaria)
 Most of the time, I&amp;rsquo;m busy with writing free
 software. I care for privacy, therefore you won&amp;rsquo;t find me on social networks.
@@ -25,7 +25,7 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 
 &lt;figure class=&#34;circle&#34;&gt;
     
-        &lt;img src=&#34;http://localhost/images/circle.png&#34; /&gt;
+        &lt;img src=&#34;https://sahib.github.io/public/images/circle.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -38,10 +38,10 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
     
     <item>
       <title>Resume</title>
-      <link>http://localhost/post/first/</link>
+      <link>https://sahib.github.io/public/post/first/</link>
       <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
       
-      <guid>http://localhost/post/first/</guid>
+      <guid>https://sahib.github.io/public/post/first/</guid>
       <description>&lt;p&gt;Formal education:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -75,10 +75,10 @@ systems programming.&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>http://localhost/post/mid/</link>
+      <link>https://sahib.github.io/public/post/mid/</link>
       <pubDate>Sun, 30 Oct 2016 14:08:14 +0100</pubDate>
       
-      <guid>http://localhost/post/mid/</guid>
+      <guid>https://sahib.github.io/public/post/mid/</guid>
       <description>&lt;p&gt;Active and maintained:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -106,7 +106,7 @@ systems programming.&lt;/p&gt;
 
 &lt;p&gt;If you like my work, you might consider a donation&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;http://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;https://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
 &lt;center&gt;
    &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
        &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;

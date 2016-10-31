@@ -27,7 +27,7 @@ Dead and small stuff:
 
 If you like my work, you might consider a donation
 
-<a href="http://flattr.com/thing/302682/libglyr"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a>
+<a href="https://flattr.com/thing/302682/libglyr"><img src="https://api.flattr.com/button/flattr-badge-large.png" /></a>
 <center>
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	   <input type="hidden" name="cmd" value="_s-xclick">
