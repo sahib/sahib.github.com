@@ -6,6 +6,8 @@ weight = 50
 class = "post"
 +++
 
+<br />
+
 <h2>Active and maintained:</h2>
 
 <div id="project-list">

@@ -56,21 +56,27 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 &lt;li&gt;2014: libmunin&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;TODO: Tagcloud with technical interests/frameworks? Thanks to my FOSS projects
-(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend, yubikey, bash, gtk, ui)&lt;/p&gt;
+&lt;p&gt;Thanks to my FOSS &lt;a href=&#34;#Projects&#34;&gt;projects&lt;/a&gt; I&amp;rsquo;m confident in all aspects related to creating
+software from scratch. This includes designing, developing, packaging,
+documenting, testing, porting, working with the community, filing bugs and
+getting bug reports. I specialize in doing systems programming.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m confident in all aspects related to creating software from scratch. This
-includes designing, developing, packaging, documenting, testing, porting, working with
-the community, filing bugs and getting bug reports. I specialize in doing
-systems programming.&lt;/p&gt;
-
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34;&gt;Default&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Primary&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-success&#34;&gt;Success&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-info&#34;&gt;Info&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-warning&#34;&gt;Warning&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-danger&#34;&gt;Danger&lt;/button&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-link&#34;&gt;Link&lt;/button&gt;&lt;/p&gt;
+&lt;div id=&#34;tagcloud&#34;&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/bildwechsel&#34; class=&#34;tag1&#34;&gt;Linux/Unix&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/css&#34; class=&#34;tag3&#34;&gt;Network programming&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/hover&#34; class=&#34;tag2&#34;&gt;Backend programming&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/liste&#34; class=&#34;tag1&#34;&gt;Frontend&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/mouseover&#34; class=&#34;tag2&#34;&gt;Security TODO&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/navigation&#34; class=&#34;tag1&#34;&gt;UI Developement (GTK+)&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/newsflash&#34; class=&#34;tag1&#34;&gt;bash&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/newsteaser&#34; class=&#34;tag1&#34;&gt;golang&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/ohne-javascript&#34; class=&#34;tag2&#34;&gt;C&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/pagination&#34; class=&#34;tag1&#34;&gt;Python&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/popup-effekt&#34; class=&#34;tag1&#34;&gt;System programming&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/seitennummerierung&#34; class=&#34;tag1&#34;&gt;Administration&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/seitenzahl&#34; class=&#34;tag1&#34;&gt;Algorithms&lt;/a&gt;
+&lt;a href=&#34;https://sahib.github.io/public/tag-suche/webdesign&#34; class=&#34;tag3&#34;&gt;Yubikey&lt;/a&gt;
+&lt;/div&gt;
 
 &lt;h2&gt;Languages:&lt;/h2&gt;
 
@@ -87,7 +93,9 @@ systems programming.&lt;/p&gt;
       <pubDate>Sun, 30 Oct 2016 14:08:14 +0100</pubDate>
       
       <guid>https://sahib.github.io/public/post/mid/</guid>
-      <description>&lt;h2&gt;Active and maintained:&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Active and maintained:&lt;/h2&gt;
 
 &lt;div id=&#34;project-list&#34;&gt;
 &lt;div class=&#34;stamp&#34;&gt;

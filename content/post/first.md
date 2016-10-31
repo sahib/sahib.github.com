@@ -16,21 +16,27 @@ class = "post first"
 * 2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)
 * 2014: libmunin
 
-TODO: Tagcloud with technical interests/frameworks? Thanks to my FOSS projects
-(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend, yubikey, bash, gtk, ui)
+Thanks to my FOSS [projects](#Projects) I'm confident in all aspects related to creating
+software from scratch. This includes designing, developing, packaging,
+documenting, testing, porting, working with the community, filing bugs and
+getting bug reports. I specialize in doing systems programming.
 
-I'm confident in all aspects related to creating software from scratch. This
-includes designing, developing, packaging, documenting, testing, porting, working with
-the community, filing bugs and getting bug reports. I specialize in doing
-systems programming.
-
-<button type="button" class="btn btn-default">Default</button>
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-link">Link</button>
+<div id="tagcloud">
+<a href="/tag-suche/bildwechsel" class="tag1">Linux/Unix</a>
+<a href="/tag-suche/css" class="tag3">Network programming</a>
+<a href="/tag-suche/hover" class="tag2">Backend programming</a>
+<a href="/tag-suche/liste" class="tag1">Frontend</a>
+<a href="/tag-suche/mouseover" class="tag2">Security TODO</a>
+<a href="/tag-suche/navigation" class="tag1">UI Developement (GTK+)</a>
+<a href="/tag-suche/newsflash" class="tag1">bash</a>
+<a href="/tag-suche/newsteaser" class="tag1">golang</a>
+<a href="/tag-suche/ohne-javascript" class="tag2">C</a>
+<a href="/tag-suche/pagination" class="tag1">Python</a>
+<a href="/tag-suche/popup-effekt" class="tag1">System programming</a>
+<a href="/tag-suche/seitennummerierung" class="tag1">Administration</a>
+<a href="/tag-suche/seitenzahl" class="tag1">Algorithms</a>
+<a href="/tag-suche/webdesign" class="tag3">Yubikey</a>
+</div>
 
 <h2>Languages:</h2>
 

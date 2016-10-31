@@ -60,7 +60,7 @@ html {
   height: 100%;
   background-color: #fff;
   border-radius: 3%;
-  font-size: 50%;
+  font-size: 55%;
   line-height: 110%;
 }
 
@@ -107,9 +107,9 @@ html {
 }
 
 .stamp {
-	margin: 0.5em;
-    width: 13.8em;
-    height: 6.5em;
+	margin: 10px;
+    width: 320px;
+    height: 200px;
     display: inline-block;
     padding: 10px;
     background: white;
@@ -133,4 +133,15 @@ html {
 	position: relative;
 	width: 90vw;
 	left: calc(-45vw + 50%);
+	margin:auto;
+	text-align: center;
 }
+
+#tagcloud{ padding:10px 5px 10px 5px;}
+
+.tag1{ font-size:1em; color:#bbb; line-height:1em; }
+.tag2{ font-size:1.2em; color:#ddd; line-height:1em; }
+.tag3{ font-size:1.4em; color:#fff; line-height:1em; }
+
+#tagcloud a{ text-decoration:none; }
+#tagcloud a:hover{ text-decoration:underline; }
