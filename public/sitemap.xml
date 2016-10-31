@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://localhost/</loc>
+    <lastmod>2016-10-30T14:09:01+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/post/last/</loc>
+    <lastmod>2016-10-30T14:09:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/post/first/</loc>
+    <lastmod>2016-10-30T14:07:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/post/mid/</loc>
+    <lastmod>2016-10-30T14:08:14+01:00</lastmod>
   </url>
   
 </urlset>
