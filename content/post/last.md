@@ -16,4 +16,4 @@ If you want to talk privately to me, my GPG Key ID is [``AF3D5DAC``](https://pgp
 {{< figure src="/public/images/circle.png" title="" class="circle" >}}
 
 <b>Things I like (in no particular order):</b> <br />
-[Table tennis](http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&pageState=vorrunde&championship=K305+2016%2F17&group=277527) (as team leader), Tattoos, [Cooking](https://studentkittens.github.io/recipes), [Biking & Hiking](https://www.komoot.de/user/311393048714), Metal, [Bad Selfmade Art](http://frogoncoffee.deviantart.com/), Nature, [Cats](https://imgur.com/a/gGvgW) and Terry Pratchett books.
+[Table tennis](http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&pageState=vorrunde&championship=K305+2016%2F17&group=277527) (as team leader), [Cooking](https://studentkittens.github.io/recipes), [Biking & Hiking](https://www.komoot.de/user/311393048714), Metal, [Badly executed Art](http://frogoncoffee.deviantart.com/), Nature, [Cats](https://imgur.com/a/gGvgW), Tattoos and Terry Pratchett books.

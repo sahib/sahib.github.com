@@ -28,7 +28,7 @@
 
                  <a id="blog-logo" href="https://sahib.github.io/public"><img src="/public/images/geweih.svg" alt="Blog Logo" /></a>
                 <h1 class="blog-title">Elchwald</h1>
-                <h2 class="blog-description">Personal page of Chris Pahl 👨 and his software ❤</h2> 
+                <h2 class="blog-description">Personal page of Chris Pahl and his 🕊 software.</h2> 
 
                 <a class='btn first'>Projects</a>
                 <a class='btn last'>About me</a>
@@ -74,7 +74,7 @@ If you want to talk privately to me, my GPG Key ID is <a href="https://pgp.mit.e
 
 
 <p><b>Things I like (in no particular order):</b> <br />
-<a href="http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;pageState=vorrunde&amp;championship=K305+2016%2F17&amp;group=277527">Table tennis</a> (as team leader), Tattoos, <a href="https://studentkittens.github.io/recipes">Cooking</a>, <a href="https://www.komoot.de/user/311393048714">Biking &amp; Hiking</a>, Metal, <a href="http://frogoncoffee.deviantart.com/">Bad Selfmade Art</a>, Nature, <a href="https://imgur.com/a/gGvgW">Cats</a> and Terry Pratchett books.</p>
+<a href="http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;pageState=vorrunde&amp;championship=K305+2016%2F17&amp;group=277527">Table tennis</a> (as team leader), <a href="https://studentkittens.github.io/recipes">Cooking</a>, <a href="https://www.komoot.de/user/311393048714">Biking &amp; Hiking</a>, Metal, <a href="http://frogoncoffee.deviantart.com/">Badly executed Art</a>, Nature, <a href="https://imgur.com/a/gGvgW">Cats</a>, Tattoos and Terry Pratchett books.</p>
 
     </section>
 
@@ -103,14 +103,14 @@ If you want to talk privately to me, my GPG Key ID is <a href="https://pgp.mit.e
     <h1 class="post-title">Resume</h1>
 
     <section class="post-content">
-    <p>Formal education:</p>
+    <h2>Formal education:</h2>
 
 <ul>
 <li>2016: Master of Science, University of Applied Sciences Augsburg (ø 1.4)</li>
 <li>2014: Bachelor of Science, University of Applied Sciences Hof (ø 1.9)</li>
 </ul>
 
-<p>Papers (german):</p>
+<h2>Papers:</h2>
 
 <ul>
 <li>2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)</li>
@@ -118,14 +118,22 @@ If you want to talk privately to me, my GPG Key ID is <a href="https://pgp.mit.e
 </ul>
 
 <p>TODO: Tagcloud with technical interests/frameworks? Thanks to my FOSS projects
-(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend,)</p>
+(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend, yubikey, bash, gtk, ui)</p>
 
 <p>I&rsquo;m confident in all aspects related to creating software from scratch. This
 includes designing, developing, packaging, documenting, testing, porting, working with
 the community, filing bugs and getting bug reports. I specialize in doing
 systems programming.</p>
 
-<p><strong>Languages:</strong></p>
+<p><button type="button" class="btn btn-default">Default</button>
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-link">Link</button></p>
+
+<h2>Languages:</h2>
 
 <ul>
 <li>German (Mother&rsquo;s tongue)</li>
@@ -159,32 +167,265 @@ systems programming.</p>
     <h1 class="post-title">Projects</h1>
 
     <section class="post-content">
-    <p>Active and maintained:</p>
+    <h2>Active and maintained:</h2>
 
-<ul>
-<li>2015-2016: brig (Go): distributed file synchronization tool</li>
-<li>2010-2016: rmlint (<em>C</em>): with optional GUI (Python)</li>
-<li>2016: eulenfunk: (C, Go)</li>
-</ul>
+<div id="project-list">
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>bri</u>g«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/go.png" />
+    
+    
+</figure>
 
-<p>Currently on hold:</p>
+        <span id="desc">
+        A tool for secure and distributed<br />
+        file synchronization based on <a>ipfs</a>.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 14 KLOC
+        <br />
+        <i id="role-string">Time:</i> 2015&ndash;2016
+        <br />
+        <i id="role-string">State:</i> Working alpha
+        <br />
+        <i id="role-string">Role:</i> Lead developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>rmlint</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c-and-python.png" />
+    
+    
+</figure>
 
-<ul>
-<li>libglyr (<em>C</em>): Music Metadata retrieval library, used in gmpc</li>
-<li>moosecat (C, Python):  Powerful Desktop MPD-Client with GTK+ Frontend.</li>
-<li>Snøbær (C, Python, Coffeescript): Webmpdclient based on moosescat.</li>
-<li>nom</li>
-</ul>
+        <span id="desc">
+        A very fast deduplication tool for Linux<br />
+        written in C with many options. It also<br />
+        features a <a href="https://rmlint.readthedocs.io/en/latest/gui.html">graphical user interface</a> written in Python.
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 14 KLOC
+        <br />
+        <i id="role-string">Time:</i> 2010&ndash;2016
+        <br />
+        <i id="role-string">State:</i> Stable for production use
+        <br />
+        <i id="role-string">Role:</i> Creator and Developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>eulenfunk</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c-and-go.png" />
+    
+    
+</figure>
 
-<p>Dead and small stuff:</p>
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+</div>
 
-<ul>
-<li>libmunin</li>
-<li>catlight</li>
-<li>par.py</li>
-</ul>
+<p><br /></p>
 
-<p>If you like my work, you might consider a donation</p>
+<h2>Currently on hold:</h2>
+
+<div id="project-list">
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>moosecat</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c-and-python.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>glyr</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>Snøbær</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c-and-python.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+</div>
+
+<p><br /></p>
+
+<h2>Dead or small projects:</h2>
+
+<div id="project-list">
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>libmunin</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/python.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>catlight</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/c.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+<div class="stamp">
+    <div class="project">
+        <span id="title"><a>»<u>nom</u>«</a></span>
+        
+<figure class="language-image">
+    
+        <img src="/public/images/go.png" />
+    
+    
+</figure>
+
+        <span id="desc">
+        A home-made kitchen radio<br />
+        based on the Raspberry Pi.<br />
+        </span>
+        <span id="role">
+        <i id="role-string">Size:</i> 7 KLOC
+        <br />
+        <i id="role-string">Time:</i> June 2016
+        <br />
+        <i id="role-string">State:</i> Works fine in the kitchen.
+        <br />
+        <i id="role-string">Role:</i> Software Developer
+        </span>
+    </div>
+</div>
+</div>
+
+<p><br /></p>
+
+<h2>Donations:</h2>
+
+<p>If you like my work, you might consider a donation, but nice emails are okay too. 😊</p>
 
 <p><a href="https://flattr.com/thing/302682/libglyr"><img src="https://api.flattr.com/button/flattr-badge-large.png" /></a>
 <center>
@@ -195,8 +436,6 @@ systems programming.</p>
        <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
    </form>
 </center></p>
-
-<p>Nice mails are okay too. 😊</p>
 
     </section>
 

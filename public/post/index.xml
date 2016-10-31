@@ -32,7 +32,7 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 
 
 &lt;p&gt;&lt;b&gt;Things I like (in no particular order):&lt;/b&gt; &lt;br /&gt;
-&lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), Tattoos, &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Bad Selfmade Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt; and Terry Pratchett books.&lt;/p&gt;
+&lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Badly executed Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt;, Tattoos and Terry Pratchett books.&lt;/p&gt;
 </description>
     </item>
     
@@ -42,14 +42,14 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
       <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
       
       <guid>https://sahib.github.io/public/post/first/</guid>
-      <description>&lt;p&gt;Formal education:&lt;/p&gt;
+      <description>&lt;h2&gt;Formal education:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;2016: Master of Science, University of Applied Sciences Augsburg (ø 1.4)&lt;/li&gt;
 &lt;li&gt;2014: Bachelor of Science, University of Applied Sciences Hof (ø 1.9)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Papers (german):&lt;/p&gt;
+&lt;h2&gt;Papers:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)&lt;/li&gt;
@@ -57,14 +57,22 @@ If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pg
 &lt;/ul&gt;
 
 &lt;p&gt;TODO: Tagcloud with technical interests/frameworks? Thanks to my FOSS projects
-(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend,)&lt;/p&gt;
+(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend, yubikey, bash, gtk, ui)&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m confident in all aspects related to creating software from scratch. This
 includes designing, developing, packaging, documenting, testing, porting, working with
 the community, filing bugs and getting bug reports. I specialize in doing
 systems programming.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34;&gt;Default&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Primary&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-success&#34;&gt;Success&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-info&#34;&gt;Info&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-warning&#34;&gt;Warning&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-danger&#34;&gt;Danger&lt;/button&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-link&#34;&gt;Link&lt;/button&gt;&lt;/p&gt;
+
+&lt;h2&gt;Languages:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;German (Mother&amp;rsquo;s tongue)&lt;/li&gt;
@@ -79,32 +87,265 @@ systems programming.&lt;/p&gt;
       <pubDate>Sun, 30 Oct 2016 14:08:14 +0100</pubDate>
       
       <guid>https://sahib.github.io/public/post/mid/</guid>
-      <description>&lt;p&gt;Active and maintained:&lt;/p&gt;
+      <description>&lt;h2&gt;Active and maintained:&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;2015-2016: brig (Go): distributed file synchronization tool&lt;/li&gt;
-&lt;li&gt;2010-2016: rmlint (&lt;em&gt;C&lt;/em&gt;): with optional GUI (Python)&lt;/li&gt;
-&lt;li&gt;2016: eulenfunk: (C, Go)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div id=&#34;project-list&#34;&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;bri&lt;/u&gt;g«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/go.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
 
-&lt;p&gt;Currently on hold:&lt;/p&gt;
+        &lt;span id=&#34;desc&#34;&gt;
+        A tool for secure and distributed&lt;br /&gt;
+        file synchronization based on &lt;a&gt;ipfs&lt;/a&gt;.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 14 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2015&amp;ndash;2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Working alpha
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Lead developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;rmlint&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c-and-python.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
 
-&lt;ul&gt;
-&lt;li&gt;libglyr (&lt;em&gt;C&lt;/em&gt;): Music Metadata retrieval library, used in gmpc&lt;/li&gt;
-&lt;li&gt;moosecat (C, Python):  Powerful Desktop MPD-Client with GTK+ Frontend.&lt;/li&gt;
-&lt;li&gt;Snøbær (C, Python, Coffeescript): Webmpdclient based on moosescat.&lt;/li&gt;
-&lt;li&gt;nom&lt;/li&gt;
-&lt;/ul&gt;
+        &lt;span id=&#34;desc&#34;&gt;
+        A very fast deduplication tool for Linux&lt;br /&gt;
+        written in C with many options. It also&lt;br /&gt;
+        features a &lt;a href=&#34;https://rmlint.readthedocs.io/en/latest/gui.html&#34;&gt;graphical user interface&lt;/a&gt; written in Python.
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 14 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; 2010&amp;ndash;2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Stable for production use
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Creator and Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;eulenfunk&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c-and-go.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
 
-&lt;p&gt;Dead and small stuff:&lt;/p&gt;
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;libmunin&lt;/li&gt;
-&lt;li&gt;catlight&lt;/li&gt;
-&lt;li&gt;par.py&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you like my work, you might consider a donation&lt;/p&gt;
+&lt;h2&gt;Currently on hold:&lt;/h2&gt;
+
+&lt;div id=&#34;project-list&#34;&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;moosecat&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c-and-python.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;glyr&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;Snøbær&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c-and-python.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Dead or small projects:&lt;/h2&gt;
+
+&lt;div id=&#34;project-list&#34;&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;libmunin&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/python.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;catlight&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/c.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stamp&#34;&gt;
+    &lt;div class=&#34;project&#34;&gt;
+        &lt;span id=&#34;title&#34;&gt;&lt;a&gt;»&lt;u&gt;nom&lt;/u&gt;«&lt;/a&gt;&lt;/span&gt;
+        
+&lt;figure class=&#34;language-image&#34;&gt;
+    
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/go.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+        &lt;span id=&#34;desc&#34;&gt;
+        A home-made kitchen radio&lt;br /&gt;
+        based on the Raspberry Pi.&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;span id=&#34;role&#34;&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Size:&lt;/i&gt; 7 KLOC
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Time:&lt;/i&gt; June 2016
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;State:&lt;/i&gt; Works fine in the kitchen.
+        &lt;br /&gt;
+        &lt;i id=&#34;role-string&#34;&gt;Role:&lt;/i&gt; Software Developer
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Donations:&lt;/h2&gt;
+
+&lt;p&gt;If you like my work, you might consider a donation, but nice emails are okay too. 😊&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;https://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
 &lt;center&gt;
@@ -115,8 +356,6 @@ systems programming.&lt;/p&gt;
        &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/de_DE/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
    &lt;/form&gt;
 &lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Nice mails are okay too. 😊&lt;/p&gt;
 </description>
     </item>
     

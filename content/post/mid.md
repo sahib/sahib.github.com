@@ -6,26 +6,202 @@ weight = 50
 class = "post"
 +++
 
-Active and maintained:
+<h2>Active and maintained:</h2>
 
-* 2015-2016: brig (Go): distributed file synchronization tool
-* 2010-2016: rmlint (*C*): with optional GUI (Python)
-* 2016: eulenfunk: (C, Go)
+<div id="project-list">
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>bri</u>g«</a></span>
+		{{< figure src="/public/images/go.png" title="" class="language-image" >}}
+		<span id="desc">
+		A tool for secure and distributed<br />
+		file synchronization based on <a>ipfs</a>.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 14 KLOC
+		<br />
+		<i id="role-string">Time:</i> 2015&ndash;2016
+		<br />
+		<i id="role-string">State:</i> Working alpha
+		<br />
+		<i id="role-string">Role:</i> Lead developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>rmlint</u>«</a></span>
+		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
+		<span id="desc">
+		A very fast deduplication tool for Linux<br />
+		written in C with many options. It also<br />
+		features a <a href="https://rmlint.readthedocs.io/en/latest/gui.html">graphical user interface</a> written in Python.
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 14 KLOC
+		<br />
+		<i id="role-string">Time:</i> 2010&ndash;2016
+		<br />
+		<i id="role-string">State:</i> Stable for production use
+		<br />
+		<i id="role-string">Role:</i> Creator and Developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>eulenfunk</u>«</a></span>
+		{{< figure src="/public/images/c-and-go.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+</div>
 
-Currently on hold:
+<br />
 
-* libglyr (*C*): Music Metadata retrieval library, used in gmpc
-* moosecat (C, Python):  Powerful Desktop MPD-Client with GTK+ Frontend.
-* Snøbær (C, Python, Coffeescript): Webmpdclient based on moosescat.
-* nom
+<h2>Currently on hold:</h2>
 
-Dead and small stuff:
+<div id="project-list">
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>moosecat</u>«</a></span>
+		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>glyr</u>«</a></span>
+		{{< figure src="/public/images/c.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>Snøbær</u>«</a></span>
+		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+</div>
 
-* libmunin
-* catlight
-* par.py
+<br />
 
-If you like my work, you might consider a donation
+<h2>Dead or small projects:</h2>
+
+<div id="project-list">
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>libmunin</u>«</a></span>
+		{{< figure src="/public/images/python.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>catlight</u>«</a></span>
+		{{< figure src="/public/images/c.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+<div class="stamp">
+	<div class="project">
+		<span id="title"><a>»<u>nom</u>«</a></span>
+		{{< figure src="/public/images/go.png" title="" class="language-image" >}}
+		<span id="desc">
+		A home-made kitchen radio<br />
+		based on the Raspberry Pi.<br />
+		</span>
+		<span id="role">
+		<i id="role-string">Size:</i> 7 KLOC
+		<br />
+		<i id="role-string">Time:</i> June 2016
+		<br />
+		<i id="role-string">State:</i> Works fine in the kitchen.
+		<br />
+		<i id="role-string">Role:</i> Software Developer
+		</span>
+	</div>
+</div>
+</div>
+
+<br />
+
+<h2>Donations:</h2>
+
+If you like my work, you might consider a donation, but nice emails are okay too. 😊
 
 <a href="https://flattr.com/thing/302682/libglyr"><img src="https://api.flattr.com/button/flattr-badge-large.png" /></a>
 <center>
@@ -36,5 +212,3 @@ If you like my work, you might consider a donation
 	   <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
    </form>
 </center>
-
-Nice mails are okay too. 😊
