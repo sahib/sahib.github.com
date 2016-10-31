@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elchwald</title>
+    <link>http://localhost/post/</link>
+    <description>Recent content in Posts on Elchwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2016 14:09:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost/post/last/</link>
+      <pubDate>Sun, 30 Oct 2016 14:09:01 +0100</pubDate>
+      
+      <guid>http://localhost/post/last/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a German software developer, currently residing in Augsburg (Bavaria)
+Most of the time, I&amp;rsquo;m busy with writing free
+software. I care for privacy, therefore you won&amp;rsquo;t find me on social networks.
+If you want to contact me, email is the way to go: &lt;a href=&#34;mailto:sahib@online.de&#34;&gt;&lt;code&gt;sahib@online.de&lt;/code&gt;&lt;/a&gt;.
+Alternatively you can use my XMPP handle: &lt;code&gt;sahib@jabber.nullcat.de&lt;/code&gt;.
+If you want to talk privately to me, my GPG Key ID is &lt;a href=&#34;https://pgp.mit.edu/pks/lookup?op=vindex&amp;amp;search=0x60464F5AAF3D5DAC&#34;&gt;&lt;code&gt;AF3D5DAC&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure class=&#34;circle&#34;&gt;
+    
+        &lt;img src=&#34;http://localhost/images/circle.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;b&gt;Things I like (in no particular order):&lt;/b&gt; &lt;br /&gt;
+&lt;a href=&#34;http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&amp;amp;pageState=vorrunde&amp;amp;championship=K305+2016%2F17&amp;amp;group=277527&#34;&gt;Table tennis&lt;/a&gt; (as team leader), Tattoos, &lt;a href=&#34;https://studentkittens.github.io/recipes&#34;&gt;Cooking&lt;/a&gt;, &lt;a href=&#34;https://www.komoot.de/user/311393048714&#34;&gt;Biking &amp;amp; Hiking&lt;/a&gt;, Metal, &lt;a href=&#34;http://frogoncoffee.deviantart.com/&#34;&gt;Bad Selfmade Art&lt;/a&gt;, Nature, &lt;a href=&#34;https://imgur.com/a/gGvgW&#34;&gt;Cats&lt;/a&gt; and Terry Pratchett books.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost/post/first/</link>
+      <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
+      
+      <guid>http://localhost/post/first/</guid>
+      <description>&lt;p&gt;Formal education:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016: Master of Science, University of Applied Sciences Augsburg (ø 1.4)&lt;/li&gt;
+&lt;li&gt;2014: Bachelor of Science, University of Applied Sciences Hof (ø 1.9)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Papers (german):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016: »brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation. (englisch?)&lt;/li&gt;
+&lt;li&gt;2014: libmunin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TODO: Tagcloud with technical interests/frameworks? Thanks to my FOSS projects
+(Interests: system programming, algorithms, linux/unix, network and backend programming, frontend,)&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m confident in all aspects related to creating software from scratch. This
+includes designing, developing, packaging, documenting, testing, porting, working with
+the community, filing bugs and getting bug reports. I specialize in doing
+systems programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;German (Mother&amp;rsquo;s tongue)&lt;/li&gt;
+&lt;li&gt;English (fluently spoken and written)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost/post/mid/</link>
+      <pubDate>Sun, 30 Oct 2016 14:08:14 +0100</pubDate>
+      
+      <guid>http://localhost/post/mid/</guid>
+      <description>&lt;p&gt;Active and maintained:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2015-2016: brig (Go): distributed file synchronization tool&lt;/li&gt;
+&lt;li&gt;2010-2016: rmlint (&lt;em&gt;C&lt;/em&gt;): with optional GUI (Python)&lt;/li&gt;
+&lt;li&gt;2016: eulenfunk: (C, Go)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Currently on hold:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;libglyr (&lt;em&gt;C&lt;/em&gt;): Music Metadata retrieval library, used in gmpc&lt;/li&gt;
+&lt;li&gt;moosecat (C, Python):  Powerful Desktop MPD-Client with GTK+ Frontend.&lt;/li&gt;
+&lt;li&gt;Snøbær (C, Python, Coffeescript): Webmpdclient based on moosescat.&lt;/li&gt;
+&lt;li&gt;nom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dead and small stuff:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;libmunin&lt;/li&gt;
+&lt;li&gt;catlight&lt;/li&gt;
+&lt;li&gt;par.py&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you like my work, you might consider a donation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://flattr.com/thing/302682/libglyr&#34;&gt;&lt;img src=&#34;http://api.flattr.com/button/flattr-badge-large.png&#34; /&gt;&lt;/a&gt;
+&lt;center&gt;
+   &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+       &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+       &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;JXCXKRMS8EDVC&#34;&gt;
+       &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
+       &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/de_DE/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
+   &lt;/form&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Nice mails are okay too. 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
