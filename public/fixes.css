@@ -9,6 +9,7 @@ h2 {
 	font-size: 100%;
 	font-weight: 600;
 	font-style: underline;
+	text-align: center;
 }
 
 p, li {
@@ -71,8 +72,8 @@ html {
 }
 
 .stamp:hover {
-  transition-delay: 100ms; 
-  opacity: 0.7;
+  transition-delay: 100ms;
+  opacity: 1.0;
   transition: opacity 500ms linear;
 }
 
@@ -122,6 +123,7 @@ html {
     padding: 10px;
     background: white;
     position: relative;
+    opacity: 0.75;
     -webkit-filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.5));
     /*The stamp cutout will be created using crisp radial gradients*/
     background: radial-gradient(
@@ -148,21 +150,28 @@ html {
 #tagcloud{
 	text-align: center;
 	padding:10px 5px 10px 5px;
+	font-family: Vollkorn;
+	font-weight: 600;
 }
 
-.tag1{ font-size:1em; color:#bbb; line-height:1em; }
-.tag2{ font-size:1.2em; color:#ddd; line-height:1em; }
-.tag3{ font-size:1.4em; color:#fff; line-height:1em; }
+.tag1{ font-size:1em; color:#bbb; line-height:1em; color: #aee; }
+.tag2{ font-size:1.3em; color:#ddd; line-height:1em; color: #eea; }
+.tag3{ font-size:1.5em; color:#fff; line-height:1em;  color: #aea; }
 
-#tagcloud a{ text-decoration:none; }
-#tagcloud a:hover{ text-decoration:underline; }
+#tagcloud a{
+	text-decoration:none;
+}
+
+#tagcloud a:hover {
+	text-decoration:underline; 
+}
 
 .blog-title {
 	text-shadow: 2px 2px #ff0000;
 }
 
 .blog-description {
-	text-shadow: 2px 2px 2px #333333;
+	text-shadow: 1px 1px 4px #222;
 }
 
 .italic {
@@ -173,14 +182,11 @@ html {
 	text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.33);
 }
 
-#projects h2 {
-	text-align: center;
-}
-
 .post-footer {
 	border-style: none;
 }
 
-#site-head {
-	background-image: url(/public/images/sunset.jpg);
+#site-head-content a {
+	font-weight: 300;
+	background-color: #eaa;
 }

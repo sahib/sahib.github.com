@@ -6,9 +6,13 @@ weight = 50
 class = "post"
 +++
 
-<br />
 
-<h2>Active and maintained:</h2>
+Below you'll a selection of the open source projects I worked on. All of them
+are licensed either as [GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License), LGPLv3 or AGPLv3.
+The most widely used projects are currently »``rmlint``« and »``glyr``«, both being packaged for many linux
+distributions.
+
+<h2>Active and well maintained:</h2>
 
 <div id="project-list">
 <div class="stamp">
@@ -23,7 +27,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 14 KLOC
 		<br />
-		<i id="role-string">Time:</i> 2015&ndash;2016
+		<i id="role-string">Timeframe:</i> 2015&ndash;2016
 		<br />
 		<i id="role-string">State:</i> Working prototype.
 		<br />
@@ -43,7 +47,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 20 KLOC
 		<br />
-		<i id="role-string">Time:</i> 2010&ndash;2016
+		<i id="role-string">Timeframe:</i> 2010&ndash;2016
 		<br />
 		<i id="role-string">State:</i> Used in production.
 		<br />
@@ -63,7 +67,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 7 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Timeframe:</i> June 2016
 		<br />
 		<i id="role-string">State:</i> Works fine in the kitchen.
 		<br />
@@ -75,7 +79,7 @@ class = "post"
 
 <br />
 
-<h2>Currently on hold:</h2>
+<h2>Currently on hold due to lack of time:</h2>
 
 <div id="project-list">
 <div class="stamp">
@@ -92,7 +96,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 15 KLOC
 		<br />
-		<i id="role-string">Time:</i> 2012&ndash;2015
+		<i id="role-string">Timeframe:</i> 2012&ndash;2015
 		<br />
 		<i id="role-string">State:</i> Various Prototypes.
 		<br />
@@ -112,7 +116,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 15 KLOC
 		<br />
-		<i id="role-string">Time:</i> 2011&ndash;2016
+		<i id="role-string">Timeframe:</i> 2011&ndash;2015
 		<br />
 		<i id="role-string">State:</i> Needs maintenance or rewrite.
 		<br />
@@ -132,7 +136,7 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 3 KLOC
 		<br />
-		<i id="role-string">Time:</i> June 2016
+		<i id="role-string">Timeframe:</i> June 2016
 		<br />
 		<i id="role-string">State:</i> Buggy Prototype.
 		<br />
@@ -159,9 +163,9 @@ class = "post"
 		<span id="role">
 		<i id="role-string">Size:</i> 4 KLOC
 		<br />
-		<i id="role-string">Time:</i> Oct 2013&ndash;May 2014
+		<i id="role-string">Timeframe:</i> Oct 2013&ndash;May 2014
 		<br />
-		<i id="role-string">State:</i> Works fine in the kitchen.
+		<i id="role-string">State:</i> Discontinued.
 		<br />
 		<i id="role-string">Role:</i> Software Developer
 		</span>
@@ -173,15 +177,14 @@ class = "post"
 		{{< figure src="/public/images/c.png" title="" class="language-image" >}}
 		<span id="desc">
 		USB driven multicolor LED,<br />
-		which is controlled by a.<br />
-		userspace driver. Used for <br />
-		mail notifications
-		and music visualisation.
+		which is controlled by a user-<br />
+		space driver. Used for mail notifications<br />
+		and <a href="https://en.wikipedia.org/wiki/Moodbar">moodbar</a> based music visualisation.
 		</span>
 		<span id="role">
 		<i id="role-string">Size:</i> 1 KLOC
 		<br />
-		<i id="role-string">Time:</i> 2012&ndash;2016 
+		<i id="role-string">Timeframe:</i> 2012&ndash;2016 
 		<br />
 		<i id="role-string">State:</i> Works well.
 		<br />
@@ -194,16 +197,16 @@ class = "post"
 		<span id="title"><a href="https://github.com/serztle/nom">»<u>nom</u>«</a></span>
 		{{< figure src="/public/images/go.png" title="" class="language-image" >}}
 		<span id="desc">
-		Small tool to plan and manage .<br />
+		Small tool to plan and manage<br />
 		recipes. Also supports the<br />
 		rendering of a web gallery.<br />
 		</span>
 		<span id="role">
 		<i id="role-string">Size:</i> 2 KLOC
 		<br />
-		<i id="role-string">Time:</i> September 2016
+		<i id="role-string">Timeframe:</i> September 2016
 		<br />
-		<i id="role-string">State:</i> Works and generates <a href="https://studentkittens.github.io/recipes">this</a>.
+		<i id="role-string">State:</i> Works and generates e.g. <a href="https://studentkittens.github.io/recipes">this</a>.
 		<br />
 		<i id="role-string">Role:</i> Code review, Author is <a href="https://github.com/serztle">serztle</a>.
 		</span>
