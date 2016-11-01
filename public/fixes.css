@@ -180,3 +180,7 @@ html {
 .post-footer {
 	border-style: none;
 }
+
+#site-head {
+	background-image: url(/public/images/sunset.jpg);
+}
