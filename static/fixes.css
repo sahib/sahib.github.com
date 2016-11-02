@@ -77,6 +77,11 @@ html {
   transition: opacity 500ms linear;
 }
 
+.project:hover {
+  color: #236AA8;
+  transition: color 500ms linear;
+}
+
 .project #title {
   font-size: 130%;
   position: absolute;
@@ -124,7 +129,8 @@ html {
     background: white;
     position: relative;
     opacity: 0.75;
-    -webkit-filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.5));
+    -webkit-filter: drop-shadow(10px 10px 5px rgba(40,20,0,0.5));
+
     /*The stamp cutout will be created using crisp radial gradients*/
     background: radial-gradient(
         transparent 0px,
@@ -155,7 +161,7 @@ html {
 }
 
 .tag1{ font-size:1em; color:#bbb; line-height:1em; color: #aee; }
-.tag2{ font-size:1.3em; color:#ddd; line-height:1em; color: #eea; }
+.tag2{ font-size:1.2em; color:#ddd; line-height:1em; color: #eea; }
 .tag3{ font-size:1.5em; color:#fff; line-height:1em;  color: #aea; }
 
 #tagcloud a{
@@ -182,11 +188,15 @@ html {
 	text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.33);
 }
 
+#resume h1 {
+	color: #aee;
+}
+
 .post-footer {
 	border-style: none;
 }
 
 #site-head-content a {
-	font-weight: 300;
+	font-weight: 400;
 	background-color: #eaa;
 }

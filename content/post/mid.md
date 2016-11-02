@@ -8,9 +8,15 @@ class = "post"
 
 
 Below you'll a selection of the open source projects I worked on. All of them
-are licensed either as [GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License), LGPLv3 or AGPLv3.
-The most widely used projects are currently »``rmlint``« and »``glyr``«, both being packaged for many linux
-distributions.
+are licensed either as
+[GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License),
+[LGPL](https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License) or
+[AGPLv3](https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License). The
+most widely used projects are currently »``rmlint``« and »``glyr``«, both being
+packaged for many linux distributions. The most important to me is »``brig``«,
+which really could change how we exchange files with other people.
+
+<br />
 
 <h2>Active and well maintained:</h2>
 
