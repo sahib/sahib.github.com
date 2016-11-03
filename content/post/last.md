@@ -25,4 +25,4 @@ talk dirty to me, my PGP key ID is
 
 <span class="italic">Other things I like (in no particular order):</span>
 [Cooking](https://studentkittens.github.io/recipes),
-[Table tennis](http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&pageState=vorrunde&championship=K305+2016%2F17&group=277527) (as player and team leader), [Biking & Hiking](https://www.komoot.de/user/311393048714), Metal, [Badly executed Art](http://frogoncoffee.deviantart.com/), Nature, [Cats](https://imgur.com/a/gGvgW), Craft Beer, Languages without »java« in them, Bo Burnham, Typography, Tattoos and Terry Pratchett books.
+[Table tennis](http://bttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/teamPortrait?teamtable=2331279&pageState=vorrunde&championship=K305+2016%2F17&group=277527) (as player and team leader), [Biking & Hiking](https://www.komoot.de/user/311393048714), Metal, [Badly executed Art](http://frogoncoffee.deviantart.com/), Nature, [Cats](https://imgur.com/a/gGvgW), Bo Burnham, Typography, Tattoos and Terry Pratchett books.
