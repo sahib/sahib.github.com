@@ -9,7 +9,7 @@ class = "post last"
 Hey there, I'm a software developer from Bavaria, being 25 years young. I just
 finished my master's degree in computer science and now I'm trembling to decide
 how to make a living out of my profession. In my spare time I'm usually writing
-lots of free software. See the bottom of this page to look at my projects.
+lots of free (as in freedom and also as in free beer) software. See the bottom of this site for my projects.
 See the next page to find out what languages and techniques I'm into.
 
 ## Contact

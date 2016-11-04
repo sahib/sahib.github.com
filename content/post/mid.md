@@ -225,7 +225,7 @@ which really could change how we exchange files with other people.
 <h2>Donations:</h2>
 
 If you like my work, you might consider a donation, but nice emails or buying me a beer is okay too.
-If you have questions, just ask me. I'm not as shy as I look like. 😊
+If you have questions, just ask me. I'm not as shy as I look like. <i class="fa fa-smile-o" aria-hidden="true"></i>
 
 <center>
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display: inline-block;">
