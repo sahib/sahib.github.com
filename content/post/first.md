@@ -51,6 +51,7 @@ arbitrary chosen references.
 <a href="https://github.com/disorganizer/brig" class="tag2">Cryptography</a>
 <a href="https://github.com/sahib/rmlint" class="tag3">git</a>
 <a href="https://travis-ci.org/sahib/rmlint" class="tag1">Continuous integration</a>
+<a href="https://github.com/sahib/rmlint/tree/master/pkg/docker" class="tag2">Docker</a>
 <a href="https://github.com/sahib/dotfiles/tree/master/nvim" class="tag3">VIM</a>
 <a href="https://github.com/disorganizer/brig-thesis/blob/master/arch/plots/benchmark.sh" class="tag2">Bash</a>
 <a href="https://github.com/disorganizer/brig/blob/master/store/fs.go" class="tag3">Go</a>

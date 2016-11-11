@@ -53,15 +53,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter4682"
-       x="-0.05013397"
-       width="1.1002679"
-       y="-0.046040282"
-       height="1.0920806">
+       id="filter4798"
+       x="-0.087734445"
+       width="1.1754689"
+       y="-0.080570491"
+       height="1.161141">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.7433587"
-         id="feGaussianBlur4684" />
+         stdDeviation="1.3008777"
+         id="feGaussianBlur4800" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -104,7 +104,7 @@
      id="layer1"
      transform="translate(-351.95251,-291.28303)">
     <g
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.69599998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5563997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4682)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.899;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5563997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4798)"
        id="text4136"
        transform="matrix(4.4931727,0,0,4.4931727,-1135.0718,-1595.3947)">
       <path
@@ -115,7 +115,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.899;"
        x="512.92468"
        y="371.74707"
        id="text4149"
@@ -127,7 +127,7 @@
     <g
        transform="matrix(4.4931727,0,0,4.4931727,-1148.286,-1615.0376)"
        id="g4594"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.89023954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.89023954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.899">
       <path
          style="fill:#ffffff;stroke:#ffffff;stroke-width:0.89023954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"

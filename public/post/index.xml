@@ -17,10 +17,10 @@
       <guid>https://sahib.github.io/public/post/last/</guid>
       <description>
 
-&lt;p&gt;Hey there, I&amp;rsquo;m a software developer from Bavaria, being 25 years young. I just
-finished my master&amp;rsquo;s degree in computer science and now I&amp;rsquo;m trembling to decide
-how to make a living out of my profession. In my spare time I&amp;rsquo;m usually writing
-lots of free (as in freedom and also as in free beer) software. See the bottom of this site for my projects.
+&lt;p&gt;Hey there, I&amp;rsquo;m a software developer from Bavaria, 25 years young. I just
+finished my master&amp;rsquo;s degree in computer science and now I&amp;rsquo;m exploring ways
+to make a living out of my profession. In my spare time I&amp;rsquo;m an active developer
+of free (as in freedom and also as in free beer) software. See the bottom of this site for my projects.
 See the next page to find out what languages and techniques I&amp;rsquo;m into.&lt;/p&gt;
 
 &lt;h2 id=&#34;contact:a7f4ea7861853ea0de97008ab620749e&#34;&gt;Contact&lt;/h2&gt;
@@ -104,6 +104,7 @@ arbitrary chosen references.&lt;/p&gt;
 &lt;a href=&#34;https://github.com/disorganizer/brig&#34; class=&#34;tag2&#34;&gt;Cryptography&lt;/a&gt;
 &lt;a href=&#34;https://github.com/sahib/rmlint&#34; class=&#34;tag3&#34;&gt;git&lt;/a&gt;
 &lt;a href=&#34;https://travis-ci.org/sahib/rmlint&#34; class=&#34;tag1&#34;&gt;Continuous integration&lt;/a&gt;
+&lt;a href=&#34;https://github.com/sahib/rmlint/tree/master/pkg/docker&#34; class=&#34;tag2&#34;&gt;Docker&lt;/a&gt;
 &lt;a href=&#34;https://github.com/sahib/dotfiles/tree/master/nvim&#34; class=&#34;tag3&#34;&gt;VIM&lt;/a&gt;
 &lt;a href=&#34;https://github.com/disorganizer/brig-thesis/blob/master/arch/plots/benchmark.sh&#34; class=&#34;tag2&#34;&gt;Bash&lt;/a&gt;
 &lt;a href=&#34;https://github.com/disorganizer/brig/blob/master/store/fs.go&#34; class=&#34;tag3&#34;&gt;Go&lt;/a&gt;
