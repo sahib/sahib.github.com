@@ -38,8 +38,8 @@ embedded programming or far more often writing tools for Linux that tinker with
 the filesystem in one way or another. Besides that I have a interest in P2P
 networks, Datamining and generally Algorithms. Although there might be some
 missing points, below you'll find the »tools and techniques« I have experience
-with. Larger points mean more experience. Click on the link to see
-arbitrary chosen references.
+with. Larger points mean more experience. Click on the link to see arbitrary
+chosen references.
 
 <div id="tagcloud">
 <a href="https://github.com/disorganizer/brig/blob/fa9bb634b4b83aaabaa967ac523123ce67aa217d/store/wire/store.proto" class="tag2">Protobuf</a>
@@ -67,3 +67,11 @@ arbitrary chosen references.
 <a href="https://github.com/disorganizer/brig/blob/master/store/kv.go" class="tag2">BoltDB</a>
 <a href="https://github.com/sahib/rmlint/blob/master/lib/treemerge.c" class="tag3">C</a>
 </div>
+
+<br />
+
+<h2>What I expect from my work:</h2>
+
+- <span class="italic">Coding:</span> I want a job where I stay near real applications, where I actually write code, tests and documentation and see the application in action.
+- <span class="italic">Interesting work:</span> I deliver the best results when really I'm interested in something. I therefore like to be challenged from time to time with new problems.
+* <span class="italic">Good Atmosphere:</span> Nice and professional colleagues that make the daily routine a fun and social experience.
