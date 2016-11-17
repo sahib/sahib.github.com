@@ -177,7 +177,7 @@ html {
 }
 
 .blog-description {
-	text-shadow: 3px 3px 1px #522;
+	text-shadow: 2px 2px 1px rgba(80, 60, 60, 10);
 }
 
 .italic {
