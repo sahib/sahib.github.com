@@ -21,7 +21,7 @@ use my XMPP handle, which is named ``sahib@jabber.nullcat.de``. If you want to
 talk dirty to me, my PGP key ID is
 [``AF3D5DAC``](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x60464F5AAF3D5DAC).
 
-{{< figure src="/public/images/circle.png" title="" class="circle" >}}
+{{< figure src="/public/images/me.png" title="" class="circle" >}}
 
 <span class="italic">Other things I like (in no particular order):</span>
 [Cooking](https://studentkittens.github.io/recipes),
