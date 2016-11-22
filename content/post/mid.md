@@ -43,7 +43,7 @@ which really could change how we exchange files with other people.
 </div>
 <div class="stamp">
 	<div class="project">
-		<span id="title"><a href="https://rmlint.rtfd.org">»<u>rmlint</u>«</a></span>
+		<span id="title"><a href="https://rmlint.readthedocs.io/en/latest/index.html">»<u>rmlint</u>«</a></span>
 		{{< figure src="/public/images/c-and-python.png" title="" class="language-image" >}}
 		<span id="desc">
 		A very fast deduplication suite for<br /> Linux written in C with many<br />
