@@ -188,6 +188,10 @@ html {
 	text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.33);
 }
 
+.oneOff {
+    background-color: #323761;
+}
+
 #resume h1 {
 	color: #aee;
 }
