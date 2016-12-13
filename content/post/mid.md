@@ -7,7 +7,7 @@ class = "post"
 +++
 
 
-Below you'll a selection of the open source projects I worked on. All of them
+Below you'll find a selection of the open source projects I worked on. All of them
 are licensed either as
 [GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License),
 [LGPL](https://de.wikipedia.org/wiki/GNU_Lesser_General_Public_License) or

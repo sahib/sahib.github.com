@@ -11,7 +11,7 @@ class = "post first"
 <h2>Formal education:</h2>
 
 * <span class="italic">2014&ndash;2016</span>: Master of Science, University of Applied Sciences Augsburg (Ø1.4)
-* <span class="italic">2010&ndash;2014</span>: Bachelor of Science, University of Applied Sciences Hof (Ø1.9)
+* <span class="italic">2010&ndash;2014</span>: Bachelor of Science, University of Applied Sciences Hof (Ø1.8)
 
 <h2>Languages I speak:</h2>
 
