@@ -7,7 +7,7 @@ class = "post first"
 +++
 
 <center>
-<a href="https://sahib.github.io/public/cv.pdf">[Download this resume as PDF]</a>
+<a href="https://github.com/sahib/sahib.github.com/raw/master/cv.pdf">[Download this resume as PDF]</a>
 </center>
 
 <br />
