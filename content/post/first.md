@@ -6,6 +6,8 @@ weight = 1
 class = "post first"
 +++
 
+<a href="https://sahib.github.io/public/cv.pdf">[Download this resume as PDF]</a>
+
 <br />
 
 <h2>Formal education:</h2>
