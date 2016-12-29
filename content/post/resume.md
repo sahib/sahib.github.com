@@ -6,9 +6,11 @@ weight = 1
 class = "post first"
 +++
 
+<!--
 <center>
 <a href="https://github.com/sahib/sahib.github.com/raw/master/cv.pdf">[Download german resume as PDF]</a>
 </center>
+-->
 
 <br />
 

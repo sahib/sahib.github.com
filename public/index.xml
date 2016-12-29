@@ -54,9 +54,11 @@ talk dirty to me, my PGP key ID is
       <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
       
       <guid>https://sahib.github.io/public/post/resume/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
+      <description>&lt;!--
+&lt;center&gt;
 &lt;a href=&#34;https://github.com/sahib/sahib.github.com/raw/master/cv.pdf&#34;&gt;[Download german resume as PDF]&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/center&gt;
+--&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
