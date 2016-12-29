@@ -11,19 +11,20 @@
     
     <item>
       <title>About me</title>
-      <link>https://sahib.github.io/public/post/last/</link>
+      <link>https://sahib.github.io/public/post/intro/</link>
       <pubDate>Sun, 30 Oct 2016 14:09:01 +0100</pubDate>
       
-      <guid>https://sahib.github.io/public/post/last/</guid>
+      <guid>https://sahib.github.io/public/post/intro/</guid>
       <description>
 
 &lt;p&gt;Hey there, I&amp;rsquo;m a software developer from Bavaria, 25 years young. I just
-finished my master&amp;rsquo;s degree in computer science and now I&amp;rsquo;m exploring ways
-to make a living out of my profession. In my spare time I&amp;rsquo;m an active developer
-of free (as in freedom and also as in free beer) software. See the bottom of this site for my projects.
-See the next page to find out what languages and techniques I&amp;rsquo;m into.&lt;/p&gt;
+finished my master&amp;rsquo;s degree in computer science and now I&amp;rsquo;m diving into the
+world of some kind of professional software developement. In my spare time I&amp;rsquo;m
+an active developer of free (as in freedom and also as in free beer) software.
+See the bottom of this site for my projects. See the next page to find out what
+languages and techniques I&amp;rsquo;m into.&lt;/p&gt;
 
-&lt;h2 id=&#34;contact:a7f4ea7861853ea0de97008ab620749e&#34;&gt;Contact&lt;/h2&gt;
+&lt;h2 id=&#34;contact:34c4da6d4768d05e50db99357a299b5c&#34;&gt;Contact&lt;/h2&gt;
 
 &lt;p&gt;I care for privacy, therefore you won&amp;rsquo;t find me on social networks. If you want
 to contact me, email is the way to go: &lt;a
@@ -35,7 +36,7 @@ talk dirty to me, my PGP key ID is
 
 &lt;figure class=&#34;circle&#34;&gt;
     
-        &lt;img src=&#34;https://sahib.github.io/public/public/images/me.png&#34; /&gt;
+        &lt;img src=&#34;https://sahib.github.io/public/public/images/avatar.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -49,12 +50,12 @@ talk dirty to me, my PGP key ID is
     
     <item>
       <title>Resume</title>
-      <link>https://sahib.github.io/public/post/first/</link>
+      <link>https://sahib.github.io/public/post/resume/</link>
       <pubDate>Sun, 30 Oct 2016 14:07:51 +0100</pubDate>
       
-      <guid>https://sahib.github.io/public/post/first/</guid>
+      <guid>https://sahib.github.io/public/post/resume/</guid>
       <description>&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://github.com/sahib/sahib.github.com/raw/master/cv.pdf&#34;&gt;[Download this resume as PDF]&lt;/a&gt;
+&lt;a href=&#34;https://github.com/sahib/sahib.github.com/raw/master/cv.pdf&#34;&gt;[Download german resume as PDF]&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -73,30 +74,29 @@ talk dirty to me, my PGP key ID is
 &lt;li&gt;English &lt;span class=&#34;italic&#34;&gt;(proficient)&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;!--
 &lt;h2&gt;Papers:&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;Oct 2016&lt;/span&gt;: &lt;a href=&#34;https://disorganizer.github.io/brig-thesis/brig/thesis.pdf&#34;&gt;»brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;May 2014&lt;/span&gt;: &lt;a href=&#34;https://sahib.github.io/libmunin-thesis/bachelor/html/rst/index.html&#34;&gt;Algorithmik und Evaluation des Musikempfehlungssystems libmunin.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+* &lt;span class=&#34;italic&#34;&gt;Oct 2016&lt;/span&gt;: &lt;a href=&#34;https://disorganizer.github.io/brig-thesis/brig/thesis.pdf&#34;&gt;»brig«: Ein Werkzeug zur sicheren und verteilten Dateisynchronisation.&lt;/a&gt;
+* &lt;span class=&#34;italic&#34;&gt;May 2014&lt;/span&gt;: &lt;a href=&#34;https://sahib.github.io/libmunin-thesis/bachelor/html/rst/index.html&#34;&gt;Algorithmik und Evaluation des Musikempfehlungssystems libmunin.&lt;/a&gt;
 
 &lt;h2&gt;Experience:&lt;/h2&gt;
 
-&lt;p&gt;Personally I think that I have learned the most through my FOSS
+Personally I think that I have learned the most through my FOSS
 projects. Thanks to them I experienced the process of creating
 software from scratch several times. This process includes designing,
 developing, packaging, documenting, automated testing, working with remote
 developers, reviewing code, porting to other platforms, working with the community, filing bugs
 and handling bug reports. While I technically have not worked (yet) in the
-»industry«, this might be a good preparation.&lt;/p&gt;
+»industry«, this might be a good preparation.
 
-&lt;p&gt;I mostly specialize in doing system level programming. This means either
+I mostly specialize in doing system level programming. This means either
 embedded programming or far more often writing tools for Linux that tinker with
 the filesystem in one way or another. Besides that I have a interest in P2P
 networks, Datamining and generally Algorithms. Although there might be some
-missing points, below you&amp;rsquo;ll find the »tools and techniques« I have experience
+missing points, below you&#39;ll find the »tools and techniques« I have experience
 with. Larger points mean more experience. Click on the link to see arbitrary
-chosen references.&lt;/p&gt;
+chosen references.
 
 &lt;div id=&#34;tagcloud&#34;&gt;
 &lt;a href=&#34;https://github.com/disorganizer/brig/blob/fa9bb634b4b83aaabaa967ac523123ce67aa217d/store/wire/store.proto&#34; class=&#34;tag2&#34;&gt;Protobuf&lt;/a&gt;
@@ -104,7 +104,6 @@ chosen references.&lt;/p&gt;
 &lt;a href=&#34;https://github.com/studentkittens/moosecat/blob/9a273458a89542d68ed7e03324924ac481b06fdc/lib/store/moose-store-private.c#L462&#34; class=&#34;tag2&#34;&gt;SQLite&lt;/a&gt;
 &lt;a href=&#34;https://github.com/sahib/rmlint/blob/f27498d62afb59924d876f8b2cec3a54de80f3a7/gui/shredder/tree.py&#34; class=&#34;tag3&#34;&gt;Python&lt;/a&gt;
 &lt;a href=&#34;https://studentkittens.github.io/eulenfunk/index.html#/step-17&#34; class=&#34;tag2&#34;&gt;Microservices&lt;/a&gt;
-&lt;!-- &lt;a href=&#34;&#34; class=&#34;tag1&#34;&gt;Raspberry Pi&lt;/a&gt; --&gt;
 &lt;a href=&#34;https://github.com/disorganizer/brig&#34; class=&#34;tag2&#34;&gt;Cryptography&lt;/a&gt;
 &lt;a href=&#34;https://github.com/sahib/rmlint&#34; class=&#34;tag3&#34;&gt;git&lt;/a&gt;
 &lt;a href=&#34;https://travis-ci.org/sahib/rmlint&#34; class=&#34;tag1&#34;&gt;Continuous integration&lt;/a&gt;
@@ -125,24 +124,24 @@ chosen references.&lt;/p&gt;
 &lt;a href=&#34;https://github.com/sahib/rmlint/blob/master/lib/treemerge.c&#34; class=&#34;tag3&#34;&gt;C&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 
 &lt;h2&gt;What I expect from my work:&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;Coding:&lt;/span&gt; I want a job where I stay near real applications, where I actually write code, tests and documentation and see the application in action.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;Interesting work:&lt;/span&gt; I deliver the best results when really I&amp;rsquo;m interested in something. I therefore like to be challenged from time to time with new problems.&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;italic&#34;&gt;Good Atmosphere:&lt;/span&gt; Nice and professional colleagues that make the daily routine a fun and social experience.&lt;/li&gt;
-&lt;/ul&gt;
+- &lt;span class=&#34;italic&#34;&gt;Coding:&lt;/span&gt; I want a job where I stay near real applications, where I actually write code, tests and documentation and see the application in action.
+- &lt;span class=&#34;italic&#34;&gt;Interesting work:&lt;/span&gt; I deliver the best results when really I&#39;m interested in something. I therefore like to be challenged from time to time with new problems.
+* &lt;span class=&#34;italic&#34;&gt;Good Atmosphere:&lt;/span&gt; Nice and professional colleagues that make the daily routine a fun and social experience.
+
+--&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sahib.github.io/public/post/mid/</link>
+      <link>https://sahib.github.io/public/post/projects/</link>
       <pubDate>Sun, 30 Oct 2016 14:08:14 +0100</pubDate>
       
-      <guid>https://sahib.github.io/public/post/mid/</guid>
+      <guid>https://sahib.github.io/public/post/projects/</guid>
       <description>&lt;p&gt;Below you&amp;rsquo;ll find a selection of the open source projects I worked on. All of them
 are licensed either as
 &lt;a href=&#34;https://de.wikipedia.org/wiki/GNU_General_Public_License&#34;&gt;GPLv3&lt;/a&gt;,

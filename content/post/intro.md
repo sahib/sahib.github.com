@@ -7,10 +7,11 @@ class = "post last"
 +++
 
 Hey there, I'm a software developer from Bavaria, 25 years young. I just
-finished my master's degree in computer science and now I'm exploring ways
-to make a living out of my profession. In my spare time I'm an active developer
-of free (as in freedom and also as in free beer) software. See the bottom of this site for my projects.
-See the next page to find out what languages and techniques I'm into.
+finished my master's degree in computer science and now I'm diving into the
+world of some kind of professional software developement. In my spare time I'm
+an active developer of free (as in freedom and also as in free beer) software.
+See the bottom of this site for my projects. See the next page to find out what
+languages and techniques I'm into.
 
 ## Contact
 
@@ -21,7 +22,7 @@ use my XMPP handle, which is named ``sahib@jabber.nullcat.de``. If you want to
 talk dirty to me, my PGP key ID is
 [``AF3D5DAC``](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x60464F5AAF3D5DAC).
 
-{{< figure src="/public/images/me.png" title="" class="circle" >}}
+{{< figure src="/public/images/avatar.png" title="" class="circle" >}}
 
 <span class="italic">Other things I like (in no particular order):</span>
 [Cooking](https://studentkittens.github.io/recipes),
