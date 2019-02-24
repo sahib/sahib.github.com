@@ -57,10 +57,22 @@
     <section class="post-content">
     
 
-<p>Hey there, I&rsquo;m a software developer from Bavaria, 27 years young. In
+        <p>Hey there, I&rsquo;m a software developer from Bavaria, <span id="year-count"></span> years young. In
 my spare time I&rsquo;m an active developer of free (as in freedom and also as
 in free beer) software.  See the bottom of this site for my projects. See the
 next page to find out what languages and techniques I&rsquo;m into.</p>
+
+<script>
+function calculateAge(birthday) { // birthday is a date
+    var ageDifMs = Date.now() - birthday.getTime();
+    var ageDate = new Date(ageDifMs); // miliseconds from epoch
+    var fraction = ageDate.getTime() / 1000.0 / 60. / 60. / 24. / 365
+    return Math.round(fraction * 100) / 100
+}
+
+var yc = document.getElementById("year-count")
+yc.innerHTML = calculateAge(new Date(1991, 5, 19))
+</script>
 
 <h2 id="contact:34c4da6d4768d05e50db99357a299b5c">Contact</h2>
 
