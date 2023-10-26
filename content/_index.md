@@ -18,14 +18,3 @@ header_subheadline: "<b>Software Generalist</b> & <b>Linux Expert</b>"
 nav_to_top_title: "Return To Top"
 nav_to_top_weight: last
 ---
-
-
-# Blah
-
-# Und
-
-# Dann
-
-# Blub
-
-Blah blah blah
