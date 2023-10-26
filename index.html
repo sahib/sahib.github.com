@@ -1,10 +1,30 @@
 <html>
     <head>
         <title>Redirecting to /public/index.html</title>
-     <meta charset="UTF-8" />
+        <style>
+            body { /* can also be whatever container */
+                background-color: #f2efe8;
+                display: -webkit-flex;
+                display: flex;
+                -webkit-align-items: center;
+                align-items: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+            }
+
+            #dots {
+                font-size: 200px;
+            }
+        </style>
+        <meta charset="UTF-8" />
+     <!--
      <meta http-equiv="refresh" content="0; URL=/public/index.html" />
+     -->
    </head>
    <body>
-     <p>This page has been moved. If not, please click <a href="https://sahib.github.io/public/index.html">here</a>.</p>
+       <center>
+       <p id="dots">...</p>
+       <p>This page is just a redirect wrapper. If it does not work, please click <a href="https://sahib.github.io/public/index.html">here</a>.</p>
+       </center>
    </body>
 </html>
