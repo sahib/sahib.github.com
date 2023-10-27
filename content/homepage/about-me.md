@@ -11,4 +11,4 @@ write about some day on this page. Come say »Hi« if you want to know more.
 
 Until this happens, have a picture of a cat:
 
-![A picture of me and a cat](images/cat.png "=50px")
+![A picture of me and a cat](images/cat.png "=500px")
