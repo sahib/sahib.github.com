@@ -4,10 +4,12 @@ weight: 3
 ---
 
 Hey there! I’m a passionate software developer from Bavaria, <span
-id="year-count">less than 100</span> years young. In my spare time I’m an
-active developer of free (as in freedom and also as in free beer) software. See the
-bottom of this site for some links. I also do many other things, which I might
-write about some day on this page. Come say »Hi« if you want to know more.
+id="year-count">less than 100</span> years young. I like to do everything
+between Embedded to Backend development, with trips into Frontend and Data
+land, as long it is Linux based.  In my spare time I’m an active developer of
+free (as in freedom and also as in free beer) software. See the bottom of this
+site for some links. I also do many other things, which I might write about
+some day on this page. Come say »Hi« if you want to know more.
 
 Until this happens, have a picture of a cat:
 
