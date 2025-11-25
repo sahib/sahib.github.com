@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sahib.github.io/public/</loc>
+    <loc>http://localhost:1313/public/</loc>
     <lastmod>2023-10-27T10:46:40+02:00</lastmod>
   </url>
 </urlset>
